@@ -1,6 +1,7 @@
 # Synthesizable Verilog 
 
 PPT for synthesizable verilog
+
 Slides are taken from the following sites 
  
 ## HOW TO WRITE A SYNTHESIZABLE VERILOG PPT BY RITHAN ??
