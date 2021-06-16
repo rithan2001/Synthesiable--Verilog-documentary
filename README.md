@@ -1,4 +1,4 @@
-# Synthesizable--Verilog-documentary
+# Synthesizable Verilog documentary
 
 PPT for synthesizable verilog
 Slides are taken from the following sites 
