@@ -1,9 +1,9 @@
-# Synthesiable--Verilog-documentary
+# Synthesizable--Verilog-documentary
 
-PPT for synthesiable verilog
+PPT for synthesizable verilog
 Slides are taken from the following sites 
  
-![image](https://user-images.githubusercontent.com/54178931/122256092-5a72aa80-ceec-11eb-8121-34ca4f52746a.png)
+## HOW TO WRITE A SYNTHESIZABLE VERILOG PPT BY RITHAN ??
 
 * https://www.youtube.com/watch?v=lPamtRAVVn8&list=PLbVWalfEstJ09kQc1wPrpJ0zKFMSI1CzM&index=9 
 
